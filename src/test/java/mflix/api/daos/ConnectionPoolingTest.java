@@ -7,7 +7,8 @@ import org.junit.Test;
 
 import java.io.IOException;
 
-public class ConnectionPoolingTest extends TicketTest {
+public class
+ConnectionPoolingTest extends TicketTest {
 
   ConnectionString connectionString;
 
